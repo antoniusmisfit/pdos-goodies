@@ -1,0 +1,5 @@
+# TODO
+
+*Modify PRINTF/FPRINTF to recognize environment variables, using ${VARNAME} syntax.
+
+*Add IF, WHILE, and FOR branching and looping commands.

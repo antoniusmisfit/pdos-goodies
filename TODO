@@ -1,5 +1,7 @@
 # TODO
 
-*Modify PRINTF/FPRINTF to recognize environment variables, using ${VARNAME} syntax.
+* Modify PRINTF/FPRINTF to recognize and expand environment variables, using ${VARNAME} syntax.
 
-*Add IF, WHILE, and FOR branching and looping commands.
+* Add IF, WHILE, and FOR branching and looping commands.
+
+* Add a command to set an environment variable from user input.

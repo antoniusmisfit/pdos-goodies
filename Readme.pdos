@@ -9,3 +9,5 @@ PRINTF - This utility is a simple command line wrapper around the C printf funct
 FPRINTF - This utility is a simple command line wrapper around the C fprintf function. It acts similarly to PRINTF, but designed to write or append to a file instead of standard output. It can be used when a batch file needs to write or append to a file, but requires more formatting than what the SAVE command offers.
 
 FMT(TBD) - This utility takes a plaintext file and outputs a formatted version suitable for pagers such as TYPE /P. It's inspired by the Unix command "fold -s" and Linux equivalent "fmt".
+
+CMDWRITE(TBD) - This utility runs a command and writes the output of the command to a specified file. It is intended as a workaround to PDOS' lack of output redirection.

@@ -10,7 +10,7 @@ All utilities were written in standard C, so they should compile on any OS with 
 
 As the primary author of PDOS states, "Base functionality of PDOS/386 has now been completed. No further functionality is required for a basic functional system". As far as being able to boot to a simple command line, edit text files and use a BBS, I cannot disagree with this.
 
-However, in it's current form PDOS has many basic feature gaps that hold it back from competing with other DOS-like operating systems like FreeDOS. While it's being very actively developed with a focus on portability to other computing architectures, I feel that PDOS is being neglected on the "front end", and there's a genuine need for direct implementations of those missing features, or clever utilities that eliminate the need for those missing features. That's what this project aims to achieve.
+However, in it's current form PDOS has many basic feature gaps that hold it back from competing with other DOS-like operating systems like FreeDOS. While it's being very actively developed with a focus on portability to other computing architectures, I feel that PDOS is being neglected on the "front end", and there's a genuine need for implementations of those missing features, or clever utilities that eliminate the need for those missing features. That's what this project aims to achieve.
 
 ## Contributing
 

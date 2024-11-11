@@ -1,0 +1,7 @@
+Rationale for each utility for PDOS:
+
+EXISTS - This utility written by the primary author of PDOS tests whether a specified file or folder exists. In other DOS-like operating systems, the IF EXIST command does this, but PDOS currently does not implement any file testing on the command line level.
+
+PRINTF - This utility is a simple command line wrapper around the C printf function. It was written as a replacement for the ECHO command,implementing a subset of C escape sequences(like \n and \t), and soon to implement environment variable dereferencing.
+
+FPRINTF - This utility is a simple command line wrapper around the C fprintf function. It acts similarly to PRINTF, but designed to write or append to a file instead standard output. It can be used when a batch file needs to write or append to a file, but requires more formatting than what the SAVE command offers.

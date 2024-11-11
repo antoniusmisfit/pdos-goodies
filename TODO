@@ -5,3 +5,5 @@
 * Add IF, WHILE, and FOR branching and looping commands.
 
 * Add a command to set an environment variable from user input.
+
+*Add a WHEREIS or WHICH command that searches the PATH for a specified command name.
